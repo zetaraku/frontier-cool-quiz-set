@@ -1,3 +1,6 @@
 [submodule "quiz-1-random-user"]
 	path = quiz-1-random-user
 	url = git@github.com:zetaraku/frontier-cool-quiz-1-random-user.git
+[submodule "quiz-2-nested-key-value-pair-tree-viewer"]
+	path = quiz-2-nested-key-value-pair-tree-viewer
+	url = git@github.com:zetaraku/frontier-cool-quiz-2-nested-key-value-pair-tree-viewer.git
