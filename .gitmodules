@@ -1,0 +1,3 @@
+[submodule "quiz-1-random-user"]
+	path = quiz-1-random-user
+	url = git@github.com:zetaraku/frontier-cool-quiz-1-random-user.git
